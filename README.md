@@ -3,3 +3,4 @@
 > A curated list of awesome games that teach you CSS.
 
 - [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Grid Garden](https://cssgridgarden.com/)
