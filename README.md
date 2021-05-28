@@ -4,3 +4,4 @@
 
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid Garden](https://cssgridgarden.com/)
+- [CSS Diner](https://flukeout.github.io/)
