@@ -7,6 +7,7 @@
 ### Flexbox 
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/) 💸 (but currently free)
 
 ### CSS Grids
 - [CSS Grid Garden](https://cssgridgarden.com/)
