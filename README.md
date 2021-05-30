@@ -2,13 +2,15 @@
 
 > A curated list of awesome games that teach you CSS.
 
+> 💸 = paid-for game
+
 ### Flexbox 
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 
 ### CSS Grids
 - [CSS Grid Garden](https://cssgridgarden.com/)
-- [Grid Critters](https://gridcritters.com/)
+- [Grid Critters](https://gridcritters.com/) 💸
 
 ### Selectors
 - [CSS Diner](https://flukeout.github.io/)
