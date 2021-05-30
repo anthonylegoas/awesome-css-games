@@ -8,6 +8,7 @@
 
 ### CSS Grids
 - [CSS Grid Garden](https://cssgridgarden.com/)
+- [Grid Critters](https://gridcritters.com/)
 
 ### Selectors
 - [CSS Diner](https://flukeout.github.io/)
